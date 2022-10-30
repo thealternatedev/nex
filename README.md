@@ -33,7 +33,7 @@ npm run run_nex
 And this will run nex without building the project.
 
 # Download
-To download the executable for:
+To download the executable for:  
 Windows: https://mega.nz/file/OrQBEJYZ#mIzbd4yv8mf68DrBg-ciwJ0OSWrhl1QFP-09zLRZgzQ  
 Linux: https://mega.nz/file/m3hmjB5R#9MU9eMX9CientWy_M7uVCPlvX47DgS1uh7dYmdCfXac  
 MacOS: https://mega.nz/file/e7g3iCqB#0gxdvm0RulCge63eEBlMb7N7bbENrXOQ6bMYMsWOBa0  
