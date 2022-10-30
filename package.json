@@ -1,0 +1,22 @@
+{
+  "name": "nex",
+  "version": "1.0.0",
+  "description": "A Terminal Created with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Use npm test_nex to test this project && exit",
+    "run_nex": "node index.js",
+    "test_nex": "node test/test.nex.js",
+    "build_nex": "pkg index.js --out-path out"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "cli": "^1.0.1",
+    "cli-color": "^2.0.3",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0"
+  }
+}
